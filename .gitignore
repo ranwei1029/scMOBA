@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+.env
+.env.*
+models/
+checkpoints/
+data/
+user-data/
+demo-prepared/
+http-test/
+*.h5ad
+*.arrow
+m1_class_predictions.csv
